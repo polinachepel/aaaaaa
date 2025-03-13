@@ -131,7 +131,7 @@ font-family: 'Source Sans Pro', sans-serif;
  background-repeat: no-repeat;
  background-position: top center;
 }
-#landing .parallax-one {
+#landing .parallax-two {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -145,7 +145,7 @@ font-family: 'Source Sans Pro', sans-serif;
  background-repeat: no-repeat;
  background-position: center;
 }
-#landing .parallax-one {
+#landing .parallax-three {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
